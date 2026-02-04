@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(PGPASSWORD='Faraday1234!' psql:*)",
+      "Bash(node:*)",
+      "Bash(brew:*)",
+      "Bash(createdb:*)",
+      "Bash(psql:*)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
